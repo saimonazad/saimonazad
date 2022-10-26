@@ -116,7 +116,10 @@ and 3d configurator
 
 <br/>  
 
-  
+## Recent Blog  
+- [Scaling PostgreSQL Cloud SQL Connections w/ PgBouncer & Kubernetes](https://helloazad.com/scaling-postgresql-cloud-sql-connections-w-pgbouncer-kubernetes-cl9lsi6pv000109l5h002d8u4)
+
+<br/>   
 
 <br/>  
 
